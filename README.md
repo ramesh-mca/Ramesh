@@ -1,2 +1,2 @@
 # Ramesh
-Honeydukes (cake shop) using Django
+Honeydukes (cake shop website) using Django
