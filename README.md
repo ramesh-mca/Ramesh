@@ -1,2 +1,2 @@
 # Ramesh
-django
+Honeydukes (cake shop) using Django
